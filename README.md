@@ -6,4 +6,12 @@
 
 3. Merge and cut out
 
-![fuck](https://github.com/Snakeflute/RGB-shift/blob/master/pictures/result.png)
+![native](https://github.com/Snakeflute/RGB-shift/blob/master/pictures/native.png)
+
+![red](https://github.com/Snakeflute/RGB-shift/blob/master/pictures/red.png)
+
+![green](https://github.com/Snakeflute/RGB-shift/blob/master/pictures/green.png)
+
+![blue](https://github.com/Snakeflute/RGB-shift/blob/master/pictures/blue.png)
+
+![merged](https://github.com/Snakeflute/RGB-shift/blob/master/pictures/merged.png)
